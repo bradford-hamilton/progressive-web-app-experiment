@@ -1,5 +1,5 @@
 // set this to true for production
-var doCache = false;
+var doCache = true;
 
 // name our cache
 var CACHE_NAME = 'my-prog-web-app-cache-v1';
